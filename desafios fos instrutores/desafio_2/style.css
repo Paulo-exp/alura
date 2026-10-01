@@ -1,0 +1,22 @@
+ #listaDeFrutas {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+#botao {
+    border-radius: 16px;
+    background: #e81818;
+    padding: 16px 24px;
+    width: 100%;
+    font-size: 24px;
+    font-weight: 700;
+    border: none;
+    margin-top: 2rem;
+}
+
+
