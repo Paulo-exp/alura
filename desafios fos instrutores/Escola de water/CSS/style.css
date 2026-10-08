@@ -1,0 +1,23 @@
+:root {
+    --cor-primaria: #167CC2;
+    --cor-secundaira: #2C678F;
+    --cor-terciaria: #76fd08;
+
+    --cor-fonte-principal: #242D33;
+}
+body {
+    background-color: var(--cor-primaria);
+    height: 100vh;
+    color: var(--cor-fonte-principal);
+    
+}
+
+.titulo__distaque {
+    color: var(--cor-terciaria);
+}
+
+.water_principal{
+    
+}
+
+    
